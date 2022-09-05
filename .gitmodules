@@ -1,0 +1,6 @@
+[submodule "data-visualization-backend"]
+	path = data-visualization-backend
+	url = https://github.com/UiS-DSComputing/data-visualization-backend
+[submodule "data-visualization-frontend"]
+	path = data-visualization-frontend
+	url = https://github.com/UiS-DSComputing/data-visualization-frontend
